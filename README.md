@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack  
 
-### **Programming Languages**  
+### **Languages**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,rust,html,css,js,ruby,php" />
 </p>
