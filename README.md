@@ -22,7 +22,7 @@
 
 ### **Tools & Technologies**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,kali,redhat,vim,git,vscode,visualstudio,godot,markdown,idea" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,kali,vim,git,vscode,visualstudio,godot,markdown,idea" />
 </p>
 
 ---
@@ -38,14 +38,6 @@
 📘 [**LearningJournal**](https://github.com/AlimouDiallo367/LearningJournal) – A structured knowledge base for programming and software development.  
 
 🌍 **Personal Website** – A personal space where I highlight my most accomplished projects and explore various tech topics.
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlimouDiallo367&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimouDiallo367&theme=tokyonight" height="165">
-</p>
 
 ---
 
